@@ -35,7 +35,7 @@
 
 #### Windows
 
-1. 打开命令提示符/PowerShell (配置好 C 编译器)。
+1. 打开shell
 2. 编译 (GCC MinGW)：
 
     ```bash
